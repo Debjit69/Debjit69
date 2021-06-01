@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Debjit69
+- 👀 I’m interested in gaming, coding, computer hardwares 
+- 🌱 I’m currently learning CSE
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me @DattaDebjit69  (twitter)
