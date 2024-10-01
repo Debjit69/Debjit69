@@ -1,4 +1,7 @@
-## Hi there 👋 I am Debjit, a Web designer from Kolkata,India
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I'm+Debjit;Tech+Enthusiast+%7C+Open+Source+Contributor"/>
+
+
+<!--## Hi there 👋 I am Debjit, a Web designer from Kolkata,India-->
 
 
 - 🔭 I’m currently working on ...
