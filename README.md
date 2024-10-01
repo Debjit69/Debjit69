@@ -1,4 +1,4 @@
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I'm+Debjit;Tech+Enthusiast+%7C+Open+Source+Contributor"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I'm+Debjit;Web+Designer+%7C+from+Kolkata,+INDIA"/>
 
 
 <!--## Hi there 👋 I am Debjit, a Web designer from Kolkata,India-->
