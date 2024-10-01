@@ -10,3 +10,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Overall Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debjit69&theme=dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Debjit69&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Debjit69&theme=dark)
